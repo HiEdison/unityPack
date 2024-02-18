@@ -1,19 +1,16 @@
 {
-    "name": "minigame",
-    "rootNamespace": "",
+    "name": "MeshBakerCore",
     "references": [
-        "GUID:0c06a9c96253b2c4e94d65ecc349b306"
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:a075b55b404a34748ac14ea9b6039911"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "TMPro",
-        "Ionic"
-    ],
+    "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
 }
