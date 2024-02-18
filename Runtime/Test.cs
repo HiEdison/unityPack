@@ -20,4 +20,9 @@ public class Test : MonoBehaviour
     {
         return "123456";
     }
+	
+	 public static string GetTest2()
+    {
+        return "123456";
+    }
 }
