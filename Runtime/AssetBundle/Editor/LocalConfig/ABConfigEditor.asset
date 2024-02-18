@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 11500000, guid: e6a170cbee74037439fa810cfa386715, type: 3}
+  m_Name: ABConfigEditor
+  m_EditorClassIdentifier: 
+  filtersuffix:
+  - .shader
+  - .cginc
+  - .prefab
+  - .mat
+  - .anim
+  - .controller
+  - .unity
+  - .asset
+  - .dds
+  - .obj
+  - .fbx
+  - .json
+  - .txt
+  - .png
+  - .jpg
+  - .tga
+  - .psd
+  - .rendertexture
+  atlas_root_note:
+  - Sources/Export/UI
+  - Sources/BuiltIn/UI
+  res_Root_note:
+  - Scenes
+  - Resources/Export
+  - TimeOfDay/Export
+  - Resources/BuiltIn/Shader
+  - TimeOfDay/BuiltIn/Shaders
+  AbNameEditorAssembleLs:
+  - TimeOfDay/Export
+  - Resources/BuiltIn/Shader
+  - TimeOfDay/BuiltIn/Shader
+  - Resources/Export/UI/Icons
+  - Resources/Export/RawMaterial/Login
+  - Resources/Export/RawMaterial/Tutorial
+  - Resources/Export/RawMaterial/City1
+  - Resources/Export/RawMaterial/CTFGame/Chunk
+  - Resources/Export/RawMaterial/BattleRoyale/Chunk
+  - Resources/Export/RawMaterial/BattleRoyale/Terrain
+  - Resources/Export/RawMaterial/NewStoryBoard/Terrain/Desert
+  - Resources/Export/RawMaterial/NewStoryBoard/Terrain/Ice1
+  - Resources/Export/RawMaterial/NewStoryBoard/Terrain/Moutain1
+  isBuildPartObjectABName: 0
+  AbNameEditorPart: []
+  isIgnorePartObjectABName: 1
+  Ignorefolder:
+  - Assets/Sources/Export/UI/Trivial/New/chest/chestAnim
+  - Assets/Resources/Export/RawMaterial/BattleRoyale/Terrain
+  - Assets/Scenes/Entrance
+  isBuildPartSceneABName: 1
+  level1SubdirectoryLs: []
+  AbNameEditorScenePart:
+  - Assets/Scenes/BattleRoyale.unity
+  isDelDirLs: 1
+  delDirLs:
+  - Resources/Export
+  - TimeOfDay/Export
+  - TEMP
+  - Sources/Export
+  - Scenes/BattleRoyale
+  - Scenes/CTFGame
+  - Scenes/CTFTrainMode
+  - Scenes/NewStoryBoard
+  - Scenes/RacingBumper
+  - Scenes/RacingGame
+  - Scenes/RacingTutorial
+  - Scenes/SkiGame
+  - Scenes/Avatar.unity
+  - Scenes/BattleRoyale.unity
+  - Scenes/CTFGame.unity
+  - Scenes/CTFTrainMode.unity
+  - Scenes/Garage.unity
+  - Scenes/HomeGarden.unity
+  - Scenes/InstanceGame01.unity
+  - Scenes/Login.unity
+  - Scenes/ObbStart.unity
+  - Scenes/RacingBumper.unity
+  - Scenes/RacingGame.unity
+  - Scenes/RacingGame_1.unity
+  - Scenes/RacingTutorial.unity
+  - Scenes/SkiGame.unity
+  - Scenes/Tutorial.unity
+  - Scenes/Woogi3D.unity
+  - Scenes/WoogiRacingAward.unity
+  - Scenes/MiniTrackFieldGame.unity
+  - Scenes/RacingGame_1
+  isUseCustomABOutputPath: 1
+  customABOutputPath: E:/Project/Woogicreate/Resources
+  timestamped: 03/22/2021 17:51:46

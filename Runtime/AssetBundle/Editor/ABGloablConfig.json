@@ -1,0 +1,81 @@
+﻿{
+    "注":"---------------以下是资源根节点. 如 Asset/****----------------------",
+    "atlas_root_note":[
+        "Sources/Export/UI"
+    ],
+    "res_Root_note":[
+        "Scenes",
+        "DrageEditor/Resources",
+        "Resources",
+        "TextMesh Pro"
+    ],
+    "filtersuffix":[
+        ".shader",
+        ".cginc",
+        ".prefab",
+        ".mat",
+        ".anim",
+        ".controller",
+        ".unity",
+        ".asset",
+        ".dds",
+        ".obj",
+        ".fbx",
+        ".json",
+        ".txt",
+        ".png",
+        ".jpg",
+        ".tga",
+        ".psd",
+        ".rendertexture",
+        ".exr",
+        ".spriteatlas",
+        ".shadervariants"
+    ],
+    "注build Level 1 subdirectory list（文件夹列表）":"----------文件夹A将1级子目录文件构建成单个assetbundle,如：A目录下有10个文件夹和2张图片，那么每个子文件夹和文件各自成单独的AB，合计12个ab----------------------",
+    "level1SubdirectoryLs":[
+        "Resources/Export/UI/Icons"
+    ],
+    "注AbNameEditorAssembleLs":"----------多个资源构建成1个bundle的全路径.----------------------",
+    "AbNameEditorAssembleLs":[
+        "Resources/BuiltIn/Shader"
+    ],
+    "注0":"----------是否编辑指定的部分对象的assetbundle name.----------------------",
+    "isBuildPartObjectABName":false,
+    "AbNameEditorPart":[
+
+    ],
+    "注1":"----------是否忽略指定的部分对象的assetbundle name.----------------------",
+    "isIgnorePartObjectABName":true,
+    "Ignorefolder":[
+        "Assets/Scenes/Entrance",
+    ],
+    "注2":"----------编辑指定的部分场景的assetbundle name. path ls.----------------------",
+    "isBuildPartSceneABName":true,
+    "AbNameEditorScenePart":[
+    ],
+    "注3":"----------删除指定文件夹. 如果发布Assetbundle类型的应用程序的话，请先删除不需要的资源.----------------------",
+    "isDelDirLs":"true",
+    "delIgnoreDirLs":[
+        "Scenes/Entrance",
+        "EVP5/Scripts",
+        "DrageEditor/Scripts",
+        "Resources/BuiltIn/Shader",
+        "TextMesh Pro"
+    ],
+    "delDirLs":[
+        "Scenes",
+        "Resources",
+        "TEMP",
+        "Sources",
+        "LuaComponent/Examples",
+        "TextAssets",
+        "AddressableAssetsData",
+        "WebGLTemplates/woogi",
+        "EVP5",
+        "MiniGames",
+        "DrageEditor"
+    ],
+    "isUseCustomABOutputPath":true,
+    "customABOutputPath":"D:/Project/MakerSpace/Resources"
+}

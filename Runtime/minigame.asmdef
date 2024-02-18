@@ -1,4 +1,18 @@
 {
-	"name": "minigame",
-	"references":[ "GUID:0c06a9c96253b2c4e94d65ecc349b306" ]
+    "name": "minigame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0c06a9c96253b2c4e94d65ecc349b306"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TMPro"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
