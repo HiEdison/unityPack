@@ -6,7 +6,8 @@
   "unity": "2022.1",
   "license": "MIT",
   "dependencies": {
-    "com.unity.cinemachine": "2.8.9"
+    "com.unity.cinemachine": "2.8.9",
+    "packagename": "1.0.0-preview"
   },
   "author": {
     "name": "Zcg",
