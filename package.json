@@ -2,7 +2,7 @@
   "name": "com.woogiworld.minigamepackage",
   "displayName": "minigame package",
   "description": "this is my minigame package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2022.1",
   "license": "MIT",
   "dependencies": {
