@@ -1,16 +1,1 @@
-{
-  "name":"com.woogiworld.minigamepackage",
-  "displayName":"minigame package",
-  "description":"this is my minigame package",
-  "version":"1.0.0",
-  "unity":"2022.1",
-  "license":"MIT",
-  "dependencies":{
-    "com.unity.cinemachine":"2.8.9"
-  },
-  "author":{
-    "name":"Zcg",
-    "email":"unity@example.com",
-    "url":"https://www.unity3d.com"
-  }
-}
+{"name":"com.woogiworld.minigamepackage","displayName":"minigame package","description":"this is my minigame package","version":"1.0.0","unity":"2022.1","license":"MIT","dependencies":{"com.unity.cinemachine":"2.8.9"},"author":{"name":"Zcg","email":"unity@example.com","url":"https://www.unity3d.com"}}
